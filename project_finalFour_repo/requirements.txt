@@ -1,0 +1,5 @@
+instagrapi
+praw
+requests
+Pillow
+python-dotenv
